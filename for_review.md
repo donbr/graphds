@@ -17,3 +17,5 @@
 - Spaces and Repos on Hugging Face
   - https://huggingface.co/dwb2023
   - https://huggingface.co/donb-hf
+- Neo4j papers and labs - patterns using docker / rabbitmq / minio
+  - python libraries for structured and unstructured data

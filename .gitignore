@@ -1,2 +1,5 @@
 .venv/
 .python-version
+
+# ignore .xlsx files
+*.xlsx
